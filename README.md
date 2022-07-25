@@ -1,9 +1,11 @@
-affiche un helloword dans une page, pour ajouter un menu allant à cette page
+# README
 
-admin->structure->menu->Menu principal->ajouter une lien
+Simple Hello World Module for Drupal 7
 
-titre -> helloWord
-chemin -> helloworld/sayhelloworld (declarer ligne 31 du fichier helloworld.module)
-enregistrer
+## INSTALL
 
-et c'est good :)
+Install and enable the module like any other Drupal 7 Module.
+
+## USE
+
+Navigate to /hello-world path to see "Hello World" Message

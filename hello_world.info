@@ -1,0 +1,5 @@
+name = Hello World
+description = Hello World
+version = 0.0.1
+core = 7.x
+files[] = tests/hello_world.test
